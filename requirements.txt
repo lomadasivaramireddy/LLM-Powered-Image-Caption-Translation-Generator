@@ -1,0 +1,11 @@
+streamlit
+Pillow
+python-dotenv
+requests
+openai
+chromadb
+sentence-transformers
+faiss-cpu
+langchain
+langchain_community
+langchain_openai
